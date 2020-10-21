@@ -6,5 +6,3 @@ Link to my Responsive website created using HTML and CSS:
 
 http://htmlpreview.github.com/?https://github.com/SimranAnand1/Responsive-Web-Design-using-HTML-CSS/blob/main/html_responsive.html
 
-Basic CSS link:
-http://htmlpreview.github.com/?https://github.com/SimranAnand1/Responsive-Web-Design-using-HTML-CSS/blob/main/style.css
